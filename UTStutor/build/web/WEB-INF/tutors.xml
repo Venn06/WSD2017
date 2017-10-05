@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tutors>
+    <tutor>
+        <email>tutor1@uts.com</email>
+        <name>tutor1</name>
+        <password>password1</password>
+        <DOB>2017-10-04</DOB>
+        <subject>WSD</subject>
+        <status>available</status>
+    </tutor>
+    <tutor>
+        <email>tutor2@uts.com</email>
+        <name>tutor2</name>
+        <password>password2</password>
+        <DOB>2017-10-04</DOB>
+        <subject>USP</subject>
+        <status>available</status>
+    </tutor>
+</tutors>
